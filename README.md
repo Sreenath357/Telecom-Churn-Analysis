@@ -1,4 +1,4 @@
-# Telecom Churn Case Study  BY: P.V. S. SREENATH
+# Telecom Churn Case Study  BY: P.V.S.SREENATH
 
 ## Problem Statement
 
